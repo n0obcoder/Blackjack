@@ -1,4 +1,4 @@
 # Blackjack
-Python mini-project *using codeskulptor.org*
+Python mini-project using ***codeskulptor.org
 
 Have Fun !!!
